@@ -32,7 +32,7 @@ Feel free to run `apm star 'markdown-pdf'` or give some feedback :smile:
 ##### Special thanks to these folks
 
 - [@BlueHatbRit](https://github.com/blueHatbRit): for helping integrate the essential [`mdpdf`](https://github.com/bluehatbrit/mdpdf) converter module
-- [@schmurphy](https://github.com/NKMR6194): [#11](https://github.com/travs/markdown-pdf/pull/11)
+- [@schmurphy](https://github.com/schmurphy): [#11](https://github.com/travs/markdown-pdf/pull/11)
 - [@NKMR6194](https://github.com/NKMR6194): [#51](https://github.com/travs/markdown-pdf/pull/51), [#83](https://github.com/travs/markdown-pdf/pull/83)
 - [@Nicnl](https://github.com/Nicnl): [#28](https://github.com/travs/markdown-pdf/pull/28)
 - [@brianchung808](https://github.com/brianchung808): [#34](https://github.com/travs/markdown-pdf/pull/34)
